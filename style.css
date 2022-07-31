@@ -1,0 +1,24 @@
+.xx-header-color
+{
+background-color: rgb(104, 129, 177);
+}
+.xx-txt-color
+{
+color: rgb(104, 129, 177);
+}
+.xx-section1-color
+{
+/*background-color: rgb(219, 208, 208);*/
+display: flex;
+}
+.xx-section3-color
+{
+background-color: rgb(202, 212, 244);
+}
+.bg-image{
+    opacity: 0.3;
+    position: absolute;
+}
+.bg-data{
+    position: relative;
+}
